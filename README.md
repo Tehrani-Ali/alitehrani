@@ -17,7 +17,7 @@ An interactive HTML presentation covering my full career — with detailed proje
 | | |
 |---|---|
 | **Location** | San Diego, CA |
-| **Status** | Green Card Holder |
+| **Status** | |
 | **Email** | alitehrani.ai@gmail.com |
 | **Phone** | 619.779.2808 |
 
@@ -50,7 +50,7 @@ An interactive HTML presentation covering my full career — with detailed proje
 | File | Description |
 |---|---|
 | `presentation-general.html` | Full interactive portfolio — all 4 career periods, project scenarios, technical references |
-| `presentation-final.html` | Role-specific customized version (interview use) |
+
 
 ---
 
